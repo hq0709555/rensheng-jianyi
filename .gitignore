@@ -1,0 +1,4 @@
+.DS_Store
+*.tmp
+*.raw.tmp
+.ocr_test/
